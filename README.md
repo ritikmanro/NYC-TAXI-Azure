@@ -29,7 +29,7 @@
 - Build line charts or pie charts in Databricks notebooks using the built-in visualization features.
 - Connect Power BI to Databricks Delta tables using the partner connect feature for reporting and visualization.
 
-Best Practices and Advanced Techniques
+## Best Practices and Advanced Techniques
 - Implement DML (insert, update, delete) and CRUD operations on Delta tables for efficient data management.
 - Push transformed data to the Gold layer in Azure Data Lake using appropriate write operations and file formats.
 - Implement dynamic data pipelines in Azure Data Factory using parameterized datasets and loops for efficient data processing.
