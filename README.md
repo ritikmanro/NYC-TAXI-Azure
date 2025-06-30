@@ -1,4 +1,4 @@
-# NYC-TAXI-Azure
+# NYC-TAXI-Project Azure
 
 ## Data Architecture and Storage
 - Implement the Medallion Architecture with Bronze (raw data), Silver (transformed data), and Gold (modeled data) layers for industry-level data engineering projects.
